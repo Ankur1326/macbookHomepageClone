@@ -24,7 +24,7 @@ body {
     background-position: center;
     background-size: cover;
     display: flex;
-    background-image: url("./image/home_image/blue-lint-abstract-8k-5120x2880.jpg");
+    background-image: url("./image/home_image/homePage.jpg");
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
